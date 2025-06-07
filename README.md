@@ -26,4 +26,4 @@ You can check out the live version [Kalculat0r Live Demo](https://kalculat0r.net
 ## 📂 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kalculat0r.git
+   git clone https://github.com/sandman-sh/kalculat0r.git
