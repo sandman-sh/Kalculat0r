@@ -1,5 +1,5 @@
 # Kalculat0r
-_A Simple and Stylish Calculator Web App_
+_                                                                       A Simple and Stylish Calculator Web App_
 
 ## 🌟 Description
 Kalculat0r is a lightweight calculator built with **HTML**, **CSS**, and **JavaScript**.  
